@@ -4,9 +4,9 @@
 This project is a Power BI dashboard analyzing Delhi's air pollution based on daily Air Quality Index (AQI) data from 2021 to 2024, including key pollutants contributing to air quality. Inspired by a compelling dataset, the dashboard was created to visualize trends, highlight key insights, and propose actionable solutions in a simple, professional, and insightful manner.
 
 ## Key Features
-- **Pollution on Holidays Analysis**: Compares AQI distribution between holidays and workdays, revealing the impact of human activity on air quality.
-- **Pollutant Breakdown**: Details the contribution of pollutants, with a focus on PM10 as the dominant factor.
 - **Air Pollution Dashboard**: Tracks AQI trends over time, including average, peak, and seasonal variations.
+- **Pollutant Breakdown**: Details the contribution of pollutants, with a focus on PM10 as the dominant factor.
+- **Pollution on Holidays Analysis**: Compares AQI distribution between holidays and workdays, revealing the impact of human activity on air quality.
 
 ## Key Findings
 - PM10 dominates AQI at 54.1%, primarily from dust, vehicles, and industry.
